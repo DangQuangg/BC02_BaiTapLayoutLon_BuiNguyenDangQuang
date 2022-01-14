@@ -1138,6 +1138,11 @@
 .dark #dark-header #dark-input {
   color: #4867b0;
 }
+.dark #dark-header #dark-input input {
+  background: #161c2d;
+  border: 2px solid #eee;
+  color: #fdfffc;
+}
 .dark #dark-feature,
 .dark #dark-welcome,
 .dark #dark-course {
